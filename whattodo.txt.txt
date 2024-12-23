@@ -1,0 +1,3 @@
+first create a finisihingLine whose default value is null.
+if it is null i wont draw anything,
+if there is a winning situation draw a line accordingly.
